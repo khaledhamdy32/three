@@ -1,0 +1,86 @@
+.item{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+}   
+img{
+    width: 100%;
+}       
+
+h2 {
+    text-align: center;
+}   
+.league{
+    color: crimson;
+    font-size: 50px;
+    display: inline;
+}
+
+.legend{
+color: darkblue;
+font-size: 50px;
+display: inline;
+}
+/* button{
+    text-align: center;
+} */
+.brdr{
+    background-color: darkcyan;
+  
+    width: 200px;
+    height: 300px;
+
+    border: 8px red  solid;
+    text-align: center;
+}
+
+
+.assin{
+    width: 500px;
+    height: 400px;
+    /* background-color: red; */
+    margin: auto;
+    padding: 10px 10px;
+    text-align: center;
+}
+.assin img{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.assin button{
+
+    color:white;
+    background-color:black;
+    border: none;
+    border-radius: 30px;    
+    padding: 10px 10px;
+
+}
+
+
+
+.lamona{
+    width: 300px;
+    height: 250px;
+    background-color: teal;
+    border-bottom-left-radius: 200px;
+    border-top-right-radius: 200px;
+}
+
+.fontaas{
+
+    font-size: 20px;
+    font-weight: 600;
+    /* font-family:fantasy; */
+    font-family: 'Festive', cursive;
+}
+
+body{
+
+    background-color: tomato;
+    background-size: 100%;
+    background-image : url(./media/champion-thresh-highnoon-splash.jpg);
+    background-attachment: fixed;
+}
